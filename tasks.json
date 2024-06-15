@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1718390000001,
+      "title": "Fix login authentication error",
+      "description": "Users are unable to log in due to an authentication failure caused by incorrect session handling.",
+      "priority": "High",
+      "status": "Open",
+      "assignee": "jdoe",
+      "dueDate": "2024-06-20",
+      "startDate": "2024-06-15T10:00:00.000Z"
+    },
+    {
+      "id": 1718390000002,
+      "title": "Update user profile page UI",
+      "description": "Revamp the user profile page to match the new design specifications provided in the Figma mockups.",
+      "priority": "Medium",
+      "status": "In Progress",
+      "assignee": "asmith",
+      "dueDate": "2024-06-22",
+      "startDate": "2024-06-14T11:00:00.000Z"
+    },
+    {
+      "id": 1718390000003,
+      "title": "Resolve checkout page crash",
+      "description": "The checkout page crashes when users attempt to apply a discount code. Investigate and fix the root cause.",
+      "priority": "High",
+      "status": "Closed",
+      "assignee": "mbrown",
+      "dueDate": "2024-06-18",
+      "startDate": "2024-06-13T09:00:00.000Z",
+      "endDate": "2024-06-14T14:00:00.000Z",
+      "daysSpent": 1
+    },
+    {
+      "id": 1718390000004,
+      "title": "Implement dark mode",
+      "description": "Add a dark mode option to the application settings for better user accessibility and preference.",
+      "priority": "Low",
+      "status": "Open",
+      "assignee": "lcampbell",
+      "dueDate": "2024-06-25",
+      "startDate": "2024-06-15T13:00:00.000Z"
+    },
+    {
+      "id": 1718390000005,
+      "title": "Improve search functionality",
+      "description": "Enhance the search algorithm to provide more accurate and relevant results based on user queries.",
+      "priority": "Medium",
+      "status": "In Progress",
+      "assignee": "gwhite",
+      "dueDate": "2024-06-21",
+      "startDate": "2024-06-14T08:00:00.000Z"
+    },
+    {
+      "id": 1718390000006,
+      "title": "Fix broken image links",
+      "description": "Several product images are not displaying correctly on the product listing page. Investigate and update the image URLs.",
+      "priority": "Medium",
+      "status": "Closed",
+      "assignee": "kgreen",
+      "dueDate": "2024-06-19",
+      "startDate": "2024-06-14T12:00:00.000Z",
+      "endDate": "2024-06-14T15:00:00.000Z",
+      "daysSpent": 1
+    },
+    {
+      "id": 1718390000007,
+      "title": "Optimize page load speed",
+      "description": "Analyze and optimize the website's page load speed to improve user experience and reduce bounce rates.",
+      "priority": "High",
+      "status": "Open",
+      "assignee": "phillips",
+      "dueDate": "2024-06-23",
+      "startDate": "2024-06-15T09:00:00.000Z"
+    },
+    {
+      "id": 1718390000008,
+      "title": "Add unit tests for new features",
+      "description": "Develop and integrate unit tests for the newly implemented features to ensure code reliability and performance.",
+      "priority": "Medium",
+      "status": "Open",
+      "assignee": "mjohnson",
+      "dueDate": "2024-06-24",
+      "startDate": "2024-06-15T10:00:00.000Z"
+    },
+    {
+      "id": 1718390000009,
+      "title": "Update privacy policy",
+      "description": "Revise the privacy policy to reflect recent changes in data protection regulations and company practices.",
+      "priority": "Low",
+      "status": "Closed",
+      "assignee": "dlewis",
+      "dueDate": "2024-06-17",
+      "startDate": "2024-06-13T14:00:00.000Z",
+      "endDate": "2024-06-14T11:00:00.000Z",
+      "daysSpent": 1
+    },
+    {
+      "id": 1718390000010,
+      "title": "Conduct user survey",
+      "description": "Design and distribute a user survey to gather feedback on the recent updates and overall user satisfaction.",
+      "priority": "Low",
+      "status": "In Progress",
+      "assignee": "jmartin",
+      "dueDate": "2024-06-20",
+      "startDate": "2024-06-14T15:00:00.000Z"
+    }
+  ]
+  
